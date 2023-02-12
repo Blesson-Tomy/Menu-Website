@@ -1,7 +1,6 @@
-p{ background-color: rgb(21, 108, 166); width: 80%; border-radius: 80%; text-align: center;}
-h1{ background-color: darkslategrey; margin-left: auto; margin-right: auto; border-width: 50%; } 
-h5 {background-color: cornflowerblue; text-decoration: green dashed; border: 50%;}
+p{ background-color: rgb(255, 255, 255); width: 80%; border-radius: 80%; text-align: center;}
+h1{ background-color: rgb(255, 255, 255); margin-left: auto; margin-right: auto; border-width: 50%; } 
+h5 {background-color: rgb(255, 255, 255); text-decoration: green dashed; border: 50%;}
 
-body {background-image: url(https://i.pinimg.com/originals/60/54/8a/60548a6a935f8400275fa3d58d64bf9f.jpg);}
+body {background-color: rgb(2, 0, 100); }
 
-<div> </div>
