@@ -1,7 +1,30 @@
-p{ background-color: rgb(255, 255, 255); width: 80%; border-radius: 80%; text-align: center;}
-h1{ background-color: rgb(255, 255, 255); margin-left: auto; margin-right: auto; border-width: 50%; } 
-h5 {background-color: rgb(255, 255, 255); text-decoration: green dashed; border: 50%;}
+p{ 
+    background-color: rgb(255, 255, 255); 
+    width: 80%; border-radius: 80%; 
+    text-align: center;
+}
+h1{ 
+    background-color: rgb(255, 255, 255); 
+    margin-left: auto; 
+    margin-right: auto; 
+    border-width: 50%; 
+} 
+h5 {
+    background-color: rgb(255, 255, 255); 
+    text-decoration: green dashed; 
+    border: 50%;
+}
+body {
+    background-color: rgb(2, 0, 100); 
+}
 
-body {background-color: rgb(2, 0, 100); }
+container {background-colour: blue ;
+    text-align: center;
+}
 
-container {background-colour: blue ; text-align: center;}
+footer {
+    text-align: center; 
+    font-size: 9pt;
+    font-style: italic;
+    
+}
