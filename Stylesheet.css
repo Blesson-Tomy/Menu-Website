@@ -18,7 +18,8 @@ body {
     background-color: rgb(2, 0, 100); 
 }
 
-container {background-colour: blue ;
+container {
+    background-colour: blue ;
     text-align: center;
 }
 
