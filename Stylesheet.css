@@ -18,9 +18,13 @@ body {
     background-color: rgb(2, 0, 100); 
 }
 
-container {
+div {
     background-colour: blue ;
     text-align: center;
+    width: 300px;
+    border: 10px solid green;
+    padding: 50px;
+    margin: 20px;
 }
 
 footer {
